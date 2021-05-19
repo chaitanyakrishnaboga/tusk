@@ -6,6 +6,9 @@ Kheer
 Pasta
 Chicken
 
+Beans
+Pizza
+
 
 
 
@@ -13,4 +16,8 @@ Chicken
 Thanks hero :)
 
 
+Done my changes, lets merge.
+
+
 Final Copy
+
